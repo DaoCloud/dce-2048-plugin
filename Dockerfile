@@ -17,7 +17,8 @@ LABEL maintainer="Kay Yan" \
       io.daocloud.dce.plugin.vendor="DaoCloud" \
       io.daocloud.dce.plugin.required-dce-version=">=2.2.0" \
       io.daocloud.dce.plugin.nano-cpus-limit="500000000" \
-      io.daocloud.dce.plugin.memory-bytes-limit="52428800"
+      io.daocloud.dce.plugin.memory-bytes-limit="52428800" \
+      io.daocloud.dce.plugin.is-technology-preview=True
 
 # Add 2048 stuff into Nginx server
 COPY . /usr/share/nginx/html
