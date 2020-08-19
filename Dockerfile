@@ -15,7 +15,7 @@ LABEL maintainer="Kay Yan" \
       io.daocloud.dce.plugin.description="2048是一款数字益智游戏，相同数字的方块合并在一起时会相加。" \
       io.daocloud.dce.plugin.categories="game" \
       io.daocloud.dce.plugin.vendor="DaoCloud" \
-      io.daocloud.dce.plugin.required-dce-version=">=2.2.0" \
+      io.daocloud.dce.plugin.required-dce-version=">=3.0.0" \
       io.daocloud.dce.plugin.nano-cpus-limit="500000000" \
       io.daocloud.dce.plugin.memory-bytes-limit="52428800"
 
