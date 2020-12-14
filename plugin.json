@@ -60,12 +60,66 @@
                 "NavigationTargetUID": "daocloud.2048.globalView"
             }
         },
-        "daocloud.2048.navigatorNode5": {
+        "daocloud.2048.page.navigatorNode": {
             "ExtendedPoint": "dce.navigator.nodeSpecs",
             "Object": {
-                "Title": "2048",
+                "Title": "翻页的2048",
+                "TitleEN": "page 2048",
                 "ParentUID": "dce.core.navigator.containers",
                 "Icon": "data:image/ico;base64,AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAgBAAABMLAAATCwAAAAAAAAAAAAAAAAAAAAAAAADE7E4AxOy+AMTs9ADE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz0AMTsvgDE7E0AAAAAAAAAAAAAAAAAxOyEAMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7IQAAAAAAMTsTQDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7E0AxOy+AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTsvgDE7PIAxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOzzAMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/Iszv/yLM7/8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/Iszv/yLM7/8RyO3/AMTs/wDE7P8AxOz/AMTs/5nn9////////////////////////////6rr+f8AxOz/Iszv/+77/v////////////////9E1PH/AMTs/wDE7P8AxOz/AMTs/wDE7P+Z5/f//////xHI7f8AxOz/RNTx//////////////////////+Z5/f/AMTs/wDE7P8AxOz/mef3/////////////////+77/v//////mef3/wDE7P/d9/z//////933/P/M8/v///////////8AxOz/iOP2/7vv+v+q6/n/quv5/+77/v//////u+/6/xHI7f/u+/7//////7vv+v+Z5/f///////////9E1PH/AMTs/wDE7P8AxOz/u+/6///////u+/7/Ecjt/wDE7P8AxOz/Ecjt////////////AMTs/wDE7P/u+/7//////0TU8f//////////////////////////////////////Ecjt/+77/v//////AMTs/wDE7P+77/r//////1XY8v8AxOz/AMTs/wDE7P8AxOz/quv5////////////Ecjt/wDE7P8RyO3//////+77/v8AxOz/AMTs/6rr+f//////Vdjy/6rr+f//////zPP7/xHI7f+77/r//////0TU8f8AxOz/3ff8//////+q6/n/Ztz0////////////Iszv/wDE7P8AxOz/AMTs/wDE7P8AxOz/zPP7///////d9/z/AMTs/xHI7f//////7vv+/wDE7P8AxOz/quv5//////9V2PL/AMTs/933/P//////M9Dw/5nn9///////Ecjt/wDE7P8RyO3//////////////////////2bc9P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz///////////8z0PD/Ecjt///////u+/7/AMTs/wDE7P+q6/n//////1XY8v8AxOz/Ecjt////////////u+/6//////8RyO3/AMTs/4jj9v//////7vv+/8zz+///////3ff8/wDE7P8AxOz/AMTs/xHI7f+q6/n/Vdjy/wDE7P/M8/v//////1XY8v8RyO3///////////8z0PD/Ecjt////////////M9Dw/wDE7P8AxOz/RNTx/////////////////xHI7f8AxOz/zPP7//////8z0PD/AMTs////////////Iszv/wDE7P8AxOz/Vdjy////////////////////////////Ecjt/wDE7P934PX//////////////////////7vv+v8AxOz/AMTs/wDE7P8AxOz/iOP2////////////Ecjt/wDE7P+I4/b///////////////////////////8AxOz/AMTs/wDE7P8AxOz/M9Dw/5nn9/+q6/n/mef3/xHI7f8AxOz/AMTs/wDE7P9E1PH/quv5/7vv+v9m3PT/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/Ztz0/3fg9f8RyO3/AMTs/wDE7P9V2PL/quv5/6rr+f934PX/Ecjt/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOzyAMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs8gDE7L4AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOy+AMTsTADE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7E0AAAAAAMTshADE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOyEAAAAAAAAAAAAAAAAAMTsTQDE7L4AxOzzAMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7P8AxOz/AMTs/wDE7PMAxOy+AMTsTAAAAAAAAAAAwAAAA4AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAcAAAAM=",
+                "IsSubmenu": true
+            },
+            "ExtensionUID": "daocloud.2048.page.navigatorNode"
+        },
+        "daocloud.2048.page.navigatorNode.section1": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "section title 1",
+                "TitleEN": "section title 1",
+                "ParentUID": "daocloud.2048.page.navigatorNode",
+                "Sort": 2
+            },
+            "ExtensionUID": "daocloud.2048.page.navigatorNode.section1"
+        },
+        "daocloud.2048.page.navigatorNode.section1.name2": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "section1 children2",
+                "TitleEN": "section1 children2",
+                "ParentUID": "daocloud.2048.page.navigatorNode.section1",
+                "Icon": "",
+                "Sort": 2,
+                "NavigationTargetUID": "daocloud.2048.globalView"
+            }
+        },
+        "daocloud.2048.page.navigatorNode.section1.name1": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "section1 children1",
+                "TitleEN": "section1 children1",
+                "ParentUID": "daocloud.2048.page.navigatorNode.section1",
+                "Icon": "",
+                "Sort": 1,
+                "NavigationTargetUID": "daocloud.2048.globalView"
+            }
+        },
+        "daocloud.2048.page.navigatorNode.section2": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "section title 2",
+                "TitleEN": "section title 2",
+                "ParentUID": "daocloud.2048.page.navigatorNode",
+                "Sort": 1
+            },
+            "ExtensionUID": "daocloud.2048.page.navigatorNode.section2"
+        },
+        "daocloud.2048.page.navigatorNode.section2.name1": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "section2 children1",
+                "TitleEN": "section2 children1",
+                "ParentUID": "daocloud.2048.page.navigatorNode.section2",
+                "Icon": "",
                 "NavigationTargetUID": "daocloud.2048.globalView"
             }
         },
