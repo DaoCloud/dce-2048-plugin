@@ -158,7 +158,7 @@
                 }
             }
         },
-        "daocloud.2048.actions.sets": {
+        "daocloud.2048.app.actions.sets": {
             "ExtendedPoint": "dce.actions.sets",
             "Object": {
                 "Actions": [
@@ -204,6 +204,37 @@
             },
             "Metadata": {
                 "ObjectType": "Application"
+            }
+        },
+        "daocloud.2048.workload.actions.sets": {
+            "ExtendedPoint": "dce.actions.sets",
+            "Object": {
+                "Actions": [
+                    {
+                        "UID": "2048.workload.game.view",
+                        "Label": "Enter Workload Game 2048",
+                        "Description": "Enter Game 2048",
+                        "Delegate": {
+                            "ClassName": "dce.client.htmlbridge.HtmlActionDelegate",
+                            "Object": {
+                                "Root": {
+                                    "ActionURL": "/index.html",
+                                    "DialogTitle": "Enter Game 2048",
+                                    "DialogSize": {
+                                        "Height": "100vh",
+                                        "Width": "90vw"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "ObjectType": "Workload",
+                "ShowType": "deployment,statefulset,daemonset",
+                "ExtendedId": "dce.workload.action.computeResource",
+                "InsertAction": "before"
             }
         }
     }
