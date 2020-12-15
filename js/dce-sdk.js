@@ -13,3 +13,13 @@ function onHandleSaveMessage(evt) {
     }, evt.origin)
   }
 }
+
+
+function getDCEInfo() {
+  const tenant = window.localStorage.getItem('DCE_TENANT');
+  const cluster = window.localStorage.getItem('DCE_CLUSTER');
+  const token = window.localStorage.getItem('DCE_TOKEN');
+  console.log(`当前集群: ${cluster}，当前租户: ${tenant}，当前 Token: ${token}。`);
+}
+
+getDCEInfo();
