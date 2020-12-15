@@ -236,6 +236,34 @@
                 "ExtendedId": "dce.workload.action.computeResource",
                 "InsertAction": "before"
             }
+        },
+        "daocloud.2048.create.application.step": {
+            "ExtendedPoint": "dce.createApp.fromRegistry.step.computeResource",
+            "Object":{
+                "Name": "2048 创建应用",
+                "NameEN": "2048 Create App",
+                "ComponentClass": {
+                    "ClassName": "dce.client.htmlbridge.HtmlView",
+                    "Object": {
+                        "Root": {
+                            "URL": "/index.html"
+                        }
+                    }
+                },
+                "DefaultValue": [
+                    {
+                        "combineType": "merge",
+                        "efficientWorkloads": "deployment,statefulset",
+                        "kind": "Deployment",
+                        "spec": {}
+                    }
+                ]
+            },
+            "Metadata": {
+                "PluginId": "2048",
+                "InsertAction": "after",
+                "SortCount": 0
+            }
         }
     }
 }
