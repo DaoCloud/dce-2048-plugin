@@ -123,6 +123,27 @@
                 "NavigationTargetUID": "daocloud.2048.globalView"
             }
         },
+        "daocloud.2048.custom.parent.navigatorNode": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "Custom Parent",
+                "TitleEN": "Custom Parent",
+                "AdjacentUID": "dce.core.navigator.infrastructure.calculate",
+                "NavigationTargetUID": "daocloud.2048.globalView",
+                "Sort": 1
+            },
+            "ExtensionUID": "daocloud.2048.custom.parent.navigatorNode"
+        },
+        "daocloud.2048.custom.parent.navigatorNode.name1": {
+            "ExtendedPoint": "dce.navigator.nodeSpecs",
+            "Object": {
+                "Title": "parent children1",
+                "TitleEN": "parent children1",
+                "ParentUID": "daocloud.2048.custom.parent.navigatorNode",
+                "Icon": "",
+                "NavigationTargetUID": "daocloud.2048.globalView"
+            }
+        },
         "daocloud.2048.globalView": {
             "ExtendedPoint": "dce.global.views",
             "Object": {
